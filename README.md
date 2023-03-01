@@ -1,8 +1,6 @@
 # About
 This is a NodeJS project originally developed on Mac M1. This project creates a multiplayer artillery game using JavaScript (j5.ps) and Websocket (socket.io).
 
-Author: Renjie Yao
-
 Date: 02/26/2023
 
 # How to start the project
